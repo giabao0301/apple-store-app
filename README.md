@@ -40,11 +40,12 @@ Link to Frontend repo: [Applemart Frontend](https://github.com/giabao0301/applem
     -  Kafka
     - Websocket
 -   Front-end
-    -   NextJS 14
-    -   ReactJS
-    -   TailwindCSS
+    -   Next.js 14
+    -   Tailwind CSS
     -   NextUI
     -   ShadcnUI
+    -   TanStack Query
+    -   Cloudinary
 
 ### Demo
 
